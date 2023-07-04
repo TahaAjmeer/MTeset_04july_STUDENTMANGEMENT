@@ -95,7 +95,7 @@ const students = [
  img1.src = "../studentMangementphotos/edit.png";
 
  
- img1.alt = "Image";
+ img1.alt = "Image-edit";
 
 
 
@@ -114,7 +114,7 @@ const students = [
 
     img.src = "../studentMangementphotos/trash.png";
 
-    img.alt = "Image";
+    img.alt = "Image-trash";
 
     deleteButton.appendChild(img);
       deleteButton.addEventListener("click", function () {
